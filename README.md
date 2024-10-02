@@ -1,7 +1,7 @@
 # WanLife
 
 ## Description
-Life’s busy, right? Whether it’s scheduling your driver’s test, getting some reading time in, or even planning that “last-minute” trip to Hawaii (because the Amazon jungle might be a bit much hahaha), WanLife has you covered!
+Life’s busy, right? Whether it’s scheduling your driver’s license test, getting some reading time in, or even planning that “last-minute” trip to Hawaii (because the Amazon jungle might be a bit much hahaha), WanLife has you covered!
 
 - Schedule Like a Pro: Set events with specific time frames and get handy reminders before they kick off—no more “Oops, I forgot!” moments.
 - Plan Together: Add your favorite people to your schedule, chat about plans, and coordinate events effortlessly. You know, like figuring out who's bringing snacks to the hike.
